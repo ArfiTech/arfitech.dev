@@ -108,7 +108,7 @@ function Activities() {
 function Gallery() {
   const images = [
     {
-      src: {reisa},
+      src: reisa,
       alt: "reisa chan",
       caption: "可愛いレイサちゃんを描いてみました",
     },
